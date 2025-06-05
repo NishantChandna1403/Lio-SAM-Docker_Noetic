@@ -1,10 +1,6 @@
-[submodule "LIO_SAM_Noetic"]
-	path = LIO_SAM_Noetic
-	url = https://github.com/NishantChandna1403/LIO_SAM_Noetic.git
+
 [submodule "file_player_mulran"]
 	path = file_player_mulran
 	url = https://github.com/NishantChandna1403/file_player_mulran.git
 	branch = noetic
-[submodule "SC-LIO-SAM"]
-	path = SC-LIO-SAM
-	url = https://github.com/NishantChandna1403/SC-LIO-SAM.git
+
