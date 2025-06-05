@@ -1,0 +1,6 @@
+[submodule "file_player_mulran"]
+	path = file_player_mulran
+	url = https://github.com/NishantChandna1403/file_player_mulran.git
+[submodule "LIO_SAM_Noetic"]
+	path = LIO_SAM_Noetic
+	url = https://github.com/NishantChandna1403/LIO_SAM_Noetic.git
