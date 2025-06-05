@@ -4,3 +4,6 @@
 	url = https://github.com/NishantChandna1403/file_player_mulran.git
 	branch = noetic
 
+[submodule "SC-LIO-SAM"]
+	path = SC-LIO-SAM
+	url = https://github.com/NishantChandna1403/SC-LIO-SAM.git
